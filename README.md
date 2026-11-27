@@ -7,40 +7,86 @@
 회계학을 전공했고, 숫자와 흐름이 맞아떨어지는 화면을 만드는 데 관심이 많습니다.<br/>
 AI 도구를 적극적으로 활용해 기획·설계부터 구현·배포까지 직접 해보고 있습니다.
 
+[![Gmail](https://img.shields.io/badge/billy8616@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billy8616@gmail.com)
+
 </div>
 
 <br/>
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,threejs,tailwind,vite&perline=7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend · DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=express,prisma,supabase,python&perline=7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Deploy · Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel,git,github&perline=7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-### 📂 Projects
+## 📂 Projects
 
-#### 🏭 [AI 운영 비서 기반 제조운영관리 플랫폼 (MOM)](https://github.com/Ion-Mill/VF-2)
-`5인 팀` `2026.10` `Next.js` `TypeScript` `three.js`
+### 🏭 AI 운영 비서 기반 제조운영관리 플랫폼 (MOM)
 
-자동차 부품 가공 라인을 3D로 모니터링하고, 알람이 뜨면 AI 비서 "이브"가 원인·조치·생산 영향을 근거와 함께 알려 주며 작업 문서 초안까지 써 주는 플랫폼
+<a href="https://github.com/Ion-Mill/VF-2">
+  <img src="https://raw.githubusercontent.com/Ion-Mill/VF-2/main/11_automotive/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81/%EC%9E%90%EB%A7%89%EC%8B%9C%EC%95%88/bg_3d.png" width="100%" alt="3D 라인 모니터링 화면"/>
+</a>
 
-- **담당: 프론트엔드** — 화면 전체, 메뉴와 역할별 화면 구성
-- three.js로 실제 설비 치수 기반 **3D 라인 모니터링** 구현 (설비 상태·재공·병목을 실시간 데이터로 표시)
+![Team](https://img.shields.io/badge/5인_팀-1e3a5f?style=flat-square)
+![Period](https://img.shields.io/badge/2026.10-1e3a5f?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Frontend-0ea5e9?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-#### 🧭 [발길따라](https://github.com/dudu-io/project-trip)
-`React` `Express` `Gemini API` · [🔗 서비스 바로가기](https://project-trip-five.vercel.app)
+자동차 부품 가공 라인을 3D로 모니터링하고, 알람이 뜨면 AI 비서 **"이브"** 가 원인·조치·생산 영향을 근거와 함께 알려 주며 작업 문서 초안까지 써 주는 플랫폼
+
+- 🖥️ **화면 전체 담당** — 메뉴와 현장 작업자·보전·반장·관리자 역할별 화면 구성
+- 🧊 **three.js 3D 라인 모니터링** — 실제 설비 치수로 그린 라인에 설비 상태·재공·병목을 실시간 데이터로 표시
+
+<br/>
+
+### 🧭 발길따라
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Kakao Map](https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakao&logoColor=black)
 
 출발지·날짜·테마·예산을 고르면 동선과 날씨를 고려해 국내 여행 코스를 짜 주는 AI 웹앱
 
+[![Live](https://img.shields.io/badge/🔗_서비스_바로가기-0f172a?style=for-the-badge)](https://project-trip-five.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/dudu-io/project-trip)
+
 <br/>
 
-### 📫 Contact
+### 💧 segnal — K-뉴딜 해커톤
 
-[![Gmail](https://img.shields.io/badge/billy8616@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:billy8616@gmail.com)
+![Hackathon](https://img.shields.io/badge/해커톤-1e3a5f?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+AI 기반 연주기 냉각수 누수 조기 감지 및 점검 위치 후보 제시
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yurim6263/segnal)
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:0f172a&height=6&section=footer" width="100%"/>
+</div>
