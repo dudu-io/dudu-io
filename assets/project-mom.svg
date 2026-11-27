@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="368" viewBox="0 0 840 368">
-<text x="0" y="26" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Arial,sans-serif" font-size="26" font-weight="700" fill="#e6edf3">Projects</text><line x1="136" y1="17" x2="840" y2="17" stroke="#2a2245"/>
+<text x="0" y="26" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Arial,sans-serif" font-size="26" font-weight="700" fill="#8b5cf6">Projects</text><line x1="136" y1="17" x2="840" y2="17" stroke="#8b5cf6" stroke-opacity="0.35"/>
 <rect x="0.5" y="50.5" width="839" height="316" fill="#100e1a" stroke="#3b2f63"/>
 <path d="M1 69V51H19" fill="none" stroke="#a3e635" stroke-width="2"/><path d="M821 51H839V69" fill="none" stroke="#a3e635" stroke-width="2"/><path d="M1 348V366H19" fill="none" stroke="#a3e635" stroke-width="2"/><path d="M821 366H839V348" fill="none" stroke="#a3e635" stroke-width="2"/>
 <text x="28" y="86" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b8aa8">SYS.01 / PROJECT</text>
