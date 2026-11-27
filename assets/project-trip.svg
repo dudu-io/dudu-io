@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="410" height="230" viewBox="0 0 410 230">
-<rect x="0.5" y="0.5" width="409" height="229" fill="#100e1a" stroke="#2a2245"/>
-<path d="M1 15V1H15" fill="none" stroke="#67e8f9" stroke-width="2"/><path d="M395 229H409V215" fill="none" stroke="#67e8f9" stroke-width="2"/>
-<text x="22" y="36" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b8aa8">SYS.02</text>
-<text x="388" y="36" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#67e8f9">● LIVE</text>
-<text x="22" y="76" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="19" font-weight="700" fill="#e6edf3">발길따라</text>
-<text x="22" y="106" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="13" fill="#c9c9dc">출발지·날짜·테마·예산을 고르면 동선과 날씨를</text>
-<text x="22" y="128" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="13" fill="#c9c9dc">고려해 국내 여행 코스를 짜 주는 AI 웹앱</text>
-<text x="22" y="160" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b8aa8">react / express / gemini</text>
-<text x="22" y="194" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="600" fill="#a3e635">→ live demo</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="368" viewBox="0 0 840 368">
+<text x="0" y="26" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Arial,sans-serif" font-size="26" font-weight="700" fill="#8b5cf6">Projects</text><line x1="136" y1="17" x2="840" y2="17" stroke="#8b5cf6" stroke-opacity="0.35"/>
+<rect x="0.5" y="50.5" width="839" height="316" fill="#100e1a" stroke="#3b2f63"/>
+<path d="M1 69V51H19" fill="none" stroke="#67e8f9" stroke-width="2"/><path d="M821 51H839V69" fill="none" stroke="#67e8f9" stroke-width="2"/><path d="M1 348V366H19" fill="none" stroke="#67e8f9" stroke-width="2"/><path d="M821 366H839V348" fill="none" stroke="#67e8f9" stroke-width="2"/>
+<text x="28" y="86" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b8aa8">SYS.01 / PROJECT</text>
+<text x="812" y="86" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#67e8f9"><tspan>●<animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></tspan> LIVE · PERSONAL</text>
+<text x="28" y="124" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="22" font-weight="700" fill="#e6edf3">발길따라</text>
+<text x="28" y="154" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="14" fill="#c9c9dc">출발지·날짜·테마·예산을 고르면 동선과 날씨를 고려해 국내 여행 코스를 짜 주는 AI 웹앱</text>
+<text x="28" y="177" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="14" fill="#c9c9dc">오전·점심·오후·저녁 4개 시간대로 코스를 짜고, 지도에 동선을 그려 줍니다</text>
+<rect x="28.5" y="200.5" width="783" height="140" rx="8" fill="#0a0a12" stroke="#2a2245"/>
+<text x="48" y="236" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#e6edf3"><tspan fill="#c084fc">const</tspan> <tspan fill="#67e8f9">trip</tspan> = {</text><text x="68" y="259" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#e6edf3">type: <tspan fill="#a3e635">"Personal · 기획 · 개발 · 배포"</tspan>,</text><text x="68" y="282" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#e6edf3">stack: [<tspan fill="#a3e635">"React"</tspan>, <tspan fill="#a3e635">"Express"</tspan>, <tspan fill="#a3e635">"Supabase"</tspan>, <tspan fill="#a3e635">"Gemini API"</tspan>],</text><text x="68" y="305" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#e6edf3">live: <tspan fill="#a3e635">"project-trip-five.vercel.app"</tspan></text><text x="48" y="328" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#e6edf3">};</text>
 </svg>
