@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="230" viewBox="0 0 410 230">
+<rect x="0.5" y="0.5" width="409" height="229" fill="#100e1a" stroke="#2a2245"/>
+<path d="M1 15V1H15" fill="none" stroke="#fbbf24" stroke-width="2"/><path d="M395 229H409V215" fill="none" stroke="#fbbf24" stroke-width="2"/>
+<text x="22" y="36" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b8aa8">SYS.03</text>
+<text x="388" y="36" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#fbbf24">● HACKATHON</text>
+<text x="22" y="76" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="19" font-weight="700" fill="#e6edf3">segnal</text>
+<text x="22" y="106" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="13" fill="#c9c9dc">AI 기반 연주기 냉각수 누수 조기 감지 및</text>
+<text x="22" y="128" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="13" fill="#c9c9dc">점검 위치 후보 제시 · K-뉴딜 해커톤</text>
+<text x="22" y="160" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b8aa8">python / hackathon</text>
+
+</svg>

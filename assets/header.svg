@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340">
+<defs>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".09"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<clipPath id="card"><rect x="1" y="1" width="838" height="338" rx="12"/></clipPath>
+<clipPath id="typed"><rect x="78" y="296" width="0" height="24"><animate attributeName="width" values="0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;0;0" keyTimes="0;0.3167;0.3333;0.35;0.3667;0.3833;0.4;0.4167;0.4333;0.45;0.4667;0.4833;0.5;0.5167;0.5333;0.55;0.92;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="840" height="340" fill="#0a0a12"/>
+<rect width="840" height="40" fill="#14111f"/>
+<line x1="0" y1="40.5" x2="840" y2="40.5" stroke="#2a2245"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+<text x="84" y="24" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b8aa8">~/dudu-io — boot</text>
+<text x="30" y="78" opacity="0" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b8aa8"><tspan fill="#a3e635">[ OK ]</tspan> Loading three.js renderer...<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.14;0.92;1" dur="9s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="30" y="102" opacity="0" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b8aa8"><tspan fill="#a3e635">[ OK ]</tspan> Connecting manufacturing data stream...<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.14;0.92;1" dur="9s" begin="0.4s" repeatCount="indefinite"/></text>
+<text x="30" y="126" opacity="0" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b8aa8"><tspan fill="#a3e635">[ OK ]</tspan> dudu-io ready.<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.14;0.92;1" dur="9s" begin="0.8s" repeatCount="indefinite"/></text>
+
+<text x="30" y="188" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Arial,sans-serif" font-size="50" font-weight="700" fill="#ffffff" filter="url(#glow)">Jang Wooseok</text>
+<text x="30" y="218" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#c4b5fd">Frontend Developer · Manufacturing Data UI</text>
+<text x="30" y="254" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="15" fill="#d4d4e8">제조 현장의 데이터를 한눈에 보이게 만드는 프론트엔드 개발자.</text>
+<text x="30" y="280" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="15" fill="#d4d4e8">회계학 전공 · AI 도구로 기획·설계부터 구현·배포까지 직접 합니다.</text>
+<text x="30" y="314" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="14"><tspan fill="#a3e635">➜</tspan> <tspan fill="#c4b5fd">~</tspan></text>
+<text x="78" y="314" font-family="'SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#e6edf3" clip-path="url(#typed)">./show-projects</text>
+<rect x="80" y="301" width="9" height="17" fill="#a3e635"><animate attributeName="x" values="80;88.4;96.8;105.2;113.6;122.0;130.4;138.8;147.2;155.6;164.0;172.4;180.8;189.2;197.6;206.0;80;80" keyTimes="0;0.3167;0.3333;0.35;0.3667;0.3833;0.4;0.4167;0.4333;0.45;0.4667;0.4833;0.5;0.5167;0.5333;0.55;0.92;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="0" y="-80" width="840" height="80" fill="url(#scan)"><animate attributeName="y" from="-80" to="340" dur="4s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="0.5" y="0.5" width="839" height="339" rx="12" fill="none" stroke="#3b2f63"/>
+</svg>
