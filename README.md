@@ -41,11 +41,7 @@ AI 도구를 적극적으로 활용해 기획·설계부터 구현·배포까지
 
 ## 📂 Projects
 
-### 🏭 AI 운영 비서 기반 제조운영관리 플랫폼 (MOM)
-
-<a href="https://github.com/Ion-Mill/VF-2">
-  <img src="https://raw.githubusercontent.com/Ion-Mill/VF-2/main/11_automotive/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81/%EC%9E%90%EB%A7%89%EC%8B%9C%EC%95%88/bg_3d.png" width="100%" alt="3D 라인 모니터링 화면"/>
-</a>
+### 🏭 [AI 운영 비서 기반 제조운영관리 플랫폼 (MOM)](https://github.com/Ion-Mill/VF-2)
 
 ![Team](https://img.shields.io/badge/5인_팀-1e3a5f?style=flat-square)
 ![Period](https://img.shields.io/badge/2026.10-1e3a5f?style=flat-square)
